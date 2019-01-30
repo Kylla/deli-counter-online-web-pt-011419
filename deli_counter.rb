@@ -11,6 +11,6 @@ def line(deli)
     end
     puts current_line
   end
-  #"The line is currently" + name + "."
-  #The line is currently #{name}."
+  
 end
+def take_a_number
