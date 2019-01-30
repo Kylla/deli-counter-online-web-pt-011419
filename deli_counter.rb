@@ -15,4 +15,4 @@ def line(deli)
 end
 def take_a_number(deli, name)
   deli << name
-  puts 
+  puts "Welcome, #{name}. You are number #{i} in line."
